@@ -684,7 +684,7 @@ a:focus {
 }
 
 .portfolio .portfolio-item figure {
-    background: #ffffff57;
+    background: #ffffff00;
     overflow: hidden;
     height: 220px;
     position: relative;
@@ -752,7 +752,7 @@ a:focus {
     right: 0;
     top: 100%;
     padding: 30px 10px;
-    color: #222222;
+    color: #000000;
 
     /**********************************/
     /******** Back to Top CSS *********/
@@ -771,8 +771,9 @@ a:focus {
     display: block;
     margin-top: 10px;
     font-family: 'Open Sans', sans-serif;
-    font-size: 13px;
-    font-weight: 300;
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
 }
 
 .portfolio .portfolio-item figure:hover .link-preview {
@@ -802,13 +803,14 @@ a:focus {
 
 .review .content-inner {
     position: relative;
-    padding: 60px 30px;
-    background: url(../img/quote.png) right bottom no-repeat;
+    padding: 30px 30px;
 }
+
 
 .review .review-text p {
     font-size: 18px;
     font-style: italic;
+    color: white;
 }
 
 .review .review-img {
