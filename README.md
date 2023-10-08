@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.ibb.co/NmPPqsy/Me.jpg" alt="Me Logo" width="150" height="150">
+</p>
+
+
 # Personal Portfolio
 
 Welcome to my Personal Portfolio! This portfolio serves as a hub for comprehensive information about me, including ways to get in touch, showcased projects, offered services, and more.
